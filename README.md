@@ -9,7 +9,7 @@ Functions:
 3. Rename a list of columns
 4. Strip blanks in cells
 5. Unify ID, strip unwanted part from cells
-6. Convert CNUM (one Cloumn) into a special format
+6. Convert CNUM (one column) into a special format
 7. Fill 0 for missing values
 8. Unify Month names
 9. Unify Status description
