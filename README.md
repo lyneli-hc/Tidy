@@ -6,7 +6,7 @@ Functions:
 
 1. Show columns containing blank cells
 2. Remove unwanted column
-3. Rename a list of Columns
+3. Rename a list of columns
 4. Strip blanks in cells
 5. Uniform ID, strip unwanted part from cells
 6. Convert CNUM (one Cloumn) into a special format
