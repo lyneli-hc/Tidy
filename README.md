@@ -1,5 +1,5 @@
 # Tidy
-Tidy is a tool developed in Python. It is designed for cleaning/uniforming data before visualizing it
+Tidy is a tool developed in Python. It is designed to clean/unify data before visualizing it
 It helps especially in cases where the row data is collected from different individuals, means there are lots of un-unified values, and unexpected blanks in cells.
 
 Functions:
